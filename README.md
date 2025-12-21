@@ -1,0 +1,2 @@
+# Student-Mental-Health-Analysis-During-Online-Learning
+Trong bối cảnh xã hội hiện nay, sức khỏe tinh thần ngày càng được xem là yếu tố quan trọng quyết định đến sự phát triển toàn diện sinh viên – những người đang trong giai đoạn định hướng nghề nghiệp và hình thành nhân cách. Áp lực học tập,khó khăn tài chính, cũng như ảnh hưởng của mạng xã hội đã khiến nhiều sinh viên rơi vào trạng thái căng thẳng.
